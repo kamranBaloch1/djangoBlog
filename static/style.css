@@ -1,0 +1,299 @@
+
+
+.navbarLink li {
+    font-family: 'League Gothic', sans-serif;
+}
+
+.navbar-brand{
+    margin-left: 80px;
+}
+
+
+
+.jumbotron {
+    font-family: 'Bebas Neue', cursive;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 130px;
+    text-align: center;
+
+    opacity: 1;
+    color: black;
+    height: 90vh;
+    width: 100%;
+
+
+}
+
+.jumbo-itum {
+    opacity: 0.8;
+    border-radius: 4px;
+    background-color: rgb(218, 221, 228);
+    padding-top: 40px;
+    width: 60%;
+    height: 200px;
+
+
+}
+
+.jumbo-itum h2 {
+    font-size: 1.7rem;
+
+}
+
+.jumbo-itum h4 {
+    font-size: 1rem;
+
+}
+
+
+
+.cat-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 50px;
+
+}
+
+.cat-container h4 {
+    font-size: 1.1rem;
+    padding: 20px 7px;
+    font-family: 'League Gothic', sans-serif;
+}
+
+.cat-container h4 a:hover {
+    text-decoration: underline;
+}
+
+.cat-container h4 a {
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+.blog-col {
+
+    padding: 10px;
+}
+
+.blog-col h2 {
+    font-size: 2rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+}
+
+.blog-col p {
+    font-size: 1rem;
+    font-family: 'League Gothic', sans-serif;
+
+}
+
+.blog-thumbnail {
+    opacity: 1.3;
+
+    width: 350px;
+    text-align: center;
+    height: 300px;
+    border-radius: 3px;
+
+}
+
+.footer {
+    width: 100%;
+    height: 10vh;
+    color: white;
+    padding-left: 90px;
+    padding-top: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.copy-tag {
+    color: whitesmoke;
+    font-size: 0.9rem;
+
+}
+
+.icons-row {
+    margin-right: 20px;
+}
+
+.icons-row i {
+    padding-left: 20px;
+    cursor: pointer;
+    color: white;
+}
+
+.blog-thumbnail:hover {
+    background-color: rgb(218, 221, 228);
+    width: 350px;
+    height: 300px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.blogPost-title {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+.date-author {
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+}
+
+.date-author h6 {
+    font-size: 0.8rem;
+    padding: 10px 10px;
+    color: grey;
+
+}
+
+.blogpost-intro {
+    text-align: justify;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    font-family: 'League Gothic', sans-serif;
+    font-weight: 500;
+    color: black;
+}
+
+.blogpost-desc {
+    text-align: justify;
+    margin-top: 50px;
+    letter-spacing: 1px;
+    font-family: 'League Gothic', sans-serif;
+    font-weight: 500;
+    color: black;
+}
+
+.blogpost-img {
+    margin-top: 30px;
+    width: 60%;
+    height: 500px;
+}
+
+.blog-hr {
+    margin-top: 50px;
+}
+
+.cmnt-text {
+    border: solid #E5E7EB 1.3px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+.cmnt-name {
+    font-size: 1.1rem;
+    font-weight: 600;
+
+}
+
+.cmnt-text h6 {
+    font-size: 0.9rem;
+    text-align: justify;
+}
+
+.cmnt-img {
+    margin-top: 10px;
+}
+
+.cmnt-row {
+    display: flex;
+}
+
+.endline {
+    height: 5px;
+    width: 1000px;
+    margin-top: 40px;
+    border-top: 6px soild grey;
+}
+
+.contact-form {
+    padding: 100px;
+}
+
+.contact-img {
+    margin-left: 100px;
+}
+
+.contact-title {
+    margin-left: 30px;
+}
+
+.contact-input {
+    background-color: #D1D5DB;
+}
+
+.contact-img img {
+    border-radius: 50%;
+}
+
+.signup-design {
+    background-color: white;
+    margin-top: 50px;
+    padding: 40px;
+    width: 500px;
+
+}
+
+.signup-form-label {
+    font-weight: bold;
+}
+
+.signup-form-input {
+    background-color: #D1D5DB;
+}
+
+.signup-btn {
+    width: 300px;
+    margin-left: 50px;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+
+}
+.span-login{
+    font-weight: 600;
+    padding-top: 12px;
+}
+.nav-btn{
+    height: 37px;
+    font-size: 0.8rem;
+    margin-top: 2px;
+    text-align: center;
+    width: 65px;
+    margin-right: 10px;
+    
+}
+.s-btn{
+    margin-left: 15px;
+}
+.cat-design{
+    margin-left: 20px;
+    color: gray;
+    margin-top: 3px;
+    font-family: 'Roboto Slab', serif;
+}
+.nav-l{
+    margin-left: 10px;
+}
+.nav-search{
+    margin-left: 140px;
+}
+.nav-search-input{
+    width: 350px;
+    background-color:  #D1D5DB;
+}
